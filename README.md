@@ -1,6 +1,6 @@
 <p align="center"> 
 
-<img src="https://user-images.githubusercontent.com/60404990/134786614-9ad16e14-321d-4c15-ad01-f0554530bf45.png" width="417" height="249"> 
+<img src="https://user-images.githubusercontent.com/60404990/134786614-9ad16e14-321d-4c15-ad01-f0554530bf45.png" width="700" height="249"> 
 </p>
 
 <h1 align="center">  Ignite | Front-End | ReactJS </h1>
