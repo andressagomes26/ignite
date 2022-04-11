@@ -5,21 +5,21 @@ section.repository-list{
         margin-bottom: 16px;
     }
 
-    ul{
+    ul {
         list-style: none;
         
-        li{
+        li {
             & + li {
                 margin-top: 10px;
             }
 
-            p{
+            p {
                 font-size: 14px;
                 color: #444;
                 margin-top: 8px;
             }
 
-            a{
+            a {
                 display: inline-block;
                 margin-top: 16px;
                 text-decoration: none;
