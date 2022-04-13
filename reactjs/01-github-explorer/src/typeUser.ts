@@ -1,3 +1,4 @@
+import typescript from 'typescript'
 type User = {
 	name: string
 	email: string
